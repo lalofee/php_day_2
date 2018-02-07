@@ -14,7 +14,7 @@
 $servername = "localhost";
 	$user = "root";
 	$pw = "";
-	$dbname = "my_test_database";
+	$dbname = "myDB";
 
 	$con = new mysqli($servername, $user, $pw);
 
